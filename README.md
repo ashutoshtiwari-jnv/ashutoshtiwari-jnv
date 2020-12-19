@@ -1,9 +1,9 @@
 ## Hi, I'm [Ashutosh Tiwari!] 👋
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderritik&label=Views&color=blue&style=plastic" alt="alexanderritik" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshtiwari&label=Views&color=blue&style=plastic" alt="ashutoshtiwari" /> </p> -->
 
-<!-- <a href="https://twitter.com/alexanderitik">
-  <img align="left" alt="Ritik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<!-- <a href="https://twitter.com/ashutoshtiwari">
+  <img align="left" alt="ashutoshtiwari's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
 <a href="https://www.linkedin.com/in/ashutosh-tiwari-4a7555159">
   <img align="left" alt="Ashutosh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,13 +18,13 @@
   <img align="left" alt="Ritik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <!--<a href="https://www.facebook.com/profile.php?id=100006362525816">
-  <img align="left" alt="Ritik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="ashutoshtiwari's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC1HnmhGWgaIGJG2zqB_HUdA">
-  <img align="left" alt="Ritik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="ashutoshtiwari's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://dev.to/alexanderritik">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ritik Srivastava's DEV Profile" height="30" width="30">
+<a href="https://dev.to/ashutoshtiwari">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ashutoshtiwari's DEV Profile" height="30" width="30">
 </a>-->
 <br/>
 <br/>
@@ -38,20 +38,21 @@
 - 📫 How to reach me: [LinkedIn - Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch friend again and again .
-<!-- 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/alexanderritik)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Ritik.Srivastava-2648ff?style=flat-square&logo=google-chrome)](https://github.com/alexanderritik/Portfolio)
- -->
+<!--[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)-->
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
+<!--[![website](https://img.shields.io/badge/PortfolioWebsite-ashutosh?style=flat-square&logo=google-chrome)](https://github.com/ashutoshtiwari-jnv)-->
+
 
 **Languages and Tools:**  
 
-<!--<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>-->
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw3hh8YwFbKRgBaJ1C4zICGe&ust=1608489245020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiloMPX2u0CFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://img.icons8.com/metro/52/000000/js.png"></code>
-<!--<code><img height="20" src="https://img.icons8.com/fluent/48/000000/swift.png"></code>
-<code><img height="20" src="https://img.icons8.com/metro/26/000000/php.png"></code>-->
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.sourcerer.io%2Fbuilding-a-website-with-c-db942c801aee&psig=AOvVaw3fU0hmH4KnrL6w4MVd4tW6&ust=1608489322236000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDAgefX2u0CFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAngular_(web_framework)&psig=AOvVaw3nFQaGlS2nW-XqBQP5YAfo&ust=1608489391829000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjGjonY2u0CFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw20nelcPE6GhAKzznZHwh5n&ust=1608489465732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCsjqzY2u0CFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBootstrap_(front-end_framework)&psig=AOvVaw1m3HYAMCkap0w6bvKUD5nT&ust=1608489504834000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCCjMHY2u0CFQAAAAAdAAAAABAJ"></code>
 
 
 <a href="https://github.com/ashutoshtiwari-jnv">
