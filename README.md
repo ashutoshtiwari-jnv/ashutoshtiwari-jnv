@@ -48,7 +48,7 @@
 
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw3hh8YwFbKRgBaJ1C4zICGe&ust=1608489245020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiloMPX2u0CFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://img.icons8.com/metro/52/000000/js.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.sourcerer.io%2Fbuilding-a-website-with-c-db942c801aee&psig=AOvVaw3fU0hmH4KnrL6w4MVd4tW6&ust=1608489322236000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDAgefX2u0CFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://img.icons8.com/metro/52/000000/angular.png"></code>
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAngular_(web_framework)&psig=AOvVaw3nFQaGlS2nW-XqBQP5YAfo&ust=1608489391829000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjGjonY2u0CFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw20nelcPE6GhAKzznZHwh5n&ust=1608489465732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCsjqzY2u0CFQAAAAAdAAAAABAD"></code>
