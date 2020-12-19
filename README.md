@@ -46,13 +46,13 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw3hh8YwFbKRgBaJ1C4zICGe&ust=1608489245020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiloMPX2u0CFQAAAAAdAAAAABAD"></code>
+<!--<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw3hh8YwFbKRgBaJ1C4zICGe&ust=1608489245020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiloMPX2u0CFQAAAAAdAAAAABAD"></code>-->
 <code><img height="20" src="https://img.icons8.com/metro/52/000000/js.png"></code>
-<code><img height="20" src="https://icons8.com/icons/set/angularjs.png"></code>
-<code><img height="20" src="https://icons8.com/icons/set/html.png"></code>
+<!--<code><img height="20" src="https://icons8.com/icons/set/angularjs.png"></code>
+<code><img height="20" src="https://icons8.com/icons/set/html.png"></code>-->
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw20nelcPE6GhAKzznZHwh5n&ust=1608489465732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCsjqzY2u0CFQAAAAAdAAAAABAD"></code>
-<code><img height="20" src="https://www.shutterstock.com/image-vector/vector-illustration-light-red-shield-letter-229869889"></code>
+<!--<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw20nelcPE6GhAKzznZHwh5n&ust=1608489465732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCsjqzY2u0CFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://www.shutterstock.com/image-vector/vector-illustration-light-red-shield-letter-229869889"></code>-->
 
 
 <a href="https://github.com/ashutoshtiwari-jnv">
