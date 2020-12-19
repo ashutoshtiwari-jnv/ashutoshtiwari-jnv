@@ -52,14 +52,14 @@
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAngular_(web_framework)&psig=AOvVaw3nFQaGlS2nW-XqBQP5YAfo&ust=1608489391829000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjGjonY2u0CFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw20nelcPE6GhAKzznZHwh5n&ust=1608489465732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCsjqzY2u0CFQAAAAAdAAAAABAD"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBootstrap_(front-end_framework)&psig=AOvVaw1m3HYAMCkap0w6bvKUD5nT&ust=1608489504834000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCCjMHY2u0CFQAAAAAdAAAAABAJ"></code>
+<code><img height="20" src="https://www.shutterstock.com/image-vector/vector-illustration-light-red-shield-letter-229869889"></code>
 
 
 <a href="https://github.com/ashutoshtiwari-jnv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshTiwari&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwari-jnv&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ashutoshtiwari-jnv">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshutoshTiwari&show_icons=true&theme=dark&line_height=27" alt="Ashutosh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshtiwari-jnv&show_icons=true&theme=dark&line_height=27" alt="Ashutosh's github stats"/>
 </a>
 
 
