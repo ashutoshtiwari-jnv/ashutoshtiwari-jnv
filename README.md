@@ -58,8 +58,9 @@
 <code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/622/1*grk7btEn0OJEQRKgG2Qs2A.png"></code>
+<code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
+<code><img height="20" src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png"></code>
 
 <a href="https://github.com/ashutoshtiwari-jnv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwari-jnv&theme=dark&hide_langs_below=1" />
