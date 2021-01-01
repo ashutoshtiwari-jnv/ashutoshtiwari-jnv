@@ -55,13 +55,14 @@
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="20" src="https://icons8.com/icons/set/html.png"></code>
+<code><img height="20" src="https://www.shutterstock.com/image-vector/vector-illustration-light-red-shield-letter-229869889"></code>
+
 <code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
 <code><img height="20" src="https://img.icons8.com/metro/52/000000/js.png"></code>
 
 
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
-<!--<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw20nelcPE6GhAKzznZHwh5n&ust=1608489465732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCsjqzY2u0CFQAAAAAdAAAAABAD"></code>
-<code><img height="20" src="https://www.shutterstock.com/image-vector/vector-illustration-light-red-shield-letter-229869889"></code>-->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 
 
 <a href="https://github.com/ashutoshtiwari-jnv">
