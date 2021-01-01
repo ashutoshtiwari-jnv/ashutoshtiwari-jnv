@@ -53,7 +53,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw3hh8YwFbKRgBaJ1C4zICGe&ust=1608489245020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiloMPX2u0CFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
 <code><img height="20" src="https://img.icons8.com/metro/52/000000/js.png"></code>
 <!--<code><img height="20" src="https://icons8.com/icons/set/angularjs.png"></code>
 <code><img height="20" src="https://icons8.com/icons/set/html.png"></code>-->
