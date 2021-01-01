@@ -46,11 +46,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch friend again and again .
 
-[![Twitter: imashutosh](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Twitter: ashutosh](https://img.shields.io/twitter/follow/ashutosh?style=social)](https://twitter.com/imt)
 
-[![Linkedin: imashutosh](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
+[![Linkedin: ashutosh](https://img.shields.io/badge/-ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
 
-[![GitHub iamashutosh](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
+[![GitHub ashutosh](https://img.shields.io/github/followers/ashutosh?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
 
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-ashutosh?style=flat-square&logo=google-chrome)](https://github.com/ashutoshtiwari-jnv)-->
 
