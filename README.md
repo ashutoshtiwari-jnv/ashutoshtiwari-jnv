@@ -38,19 +38,12 @@
 <br/>
 
 
-
 - 🔭 I'm currently a working on project [Voice-Assisted-Real-Time-Object-Recognition-for-Visually-Impaired-People](https://github.com/Voice-Assisted-Real-Time-Object-Recognition-for-Visually-Impaired-People).
-
 - 🌱 I’m currently learning Competitve Proramming,Machine Learning using Python.
-
 - 👯 I love to collaborate on intresting Projects.
-
 - 💬 You can ask me stuffs related Python & ML.
-
 - 📫 How to reach me: [LinkedIn - Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
-
 - 😄 Pronouns: He/His
-
 - ⚡ Fun fact: I love to watch friend again and again .
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
