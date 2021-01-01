@@ -53,6 +53,7 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://www.techbaz.org/Course/img/c-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&usqp=CAU"></code>
 <code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
