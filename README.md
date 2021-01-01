@@ -54,7 +54,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="20" src="https://content.techgig.com/photo/66552980/why-python-has-failed-to-take-off-in-enterprise-application-development.jpg?46623"></code>
+<code><img height="20" src="https://i.dlpng.com/static/png/1180726-this-free-icons-png-design-of-python-language-logo-python-logo-png-2400_1697_preview.png"></code>
 <code><img height="20" src="https://www.shutterstock.com/image-vector/vector-illustration-light-red-shield-letter-229869889"></code>
 
 <code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
