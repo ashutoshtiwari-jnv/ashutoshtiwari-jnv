@@ -59,7 +59,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/622/1*grk7btEn0OJEQRKgG2Qs2A.png"></code>
 
 <a href="https://github.com/ashutoshtiwari-jnv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwari-jnv&theme=dark&hide_langs_below=1" />
