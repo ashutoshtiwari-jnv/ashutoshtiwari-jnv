@@ -30,7 +30,7 @@
   <img align="left" alt="ashutoshtiwari's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href="https://dev.to/ashutoshtiwari">
+<!--<a href="https://dev.to/ashutoshtiwari">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ashutoshtiwari's DEV Profile" height="30" width="30">
 </a>-->
 
@@ -46,7 +46,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch friend again and again .
 
-[![Twitter: ashutosh](https://img.shields.io/twitter/follow/ashutosh?style=social)](https://twitter.com/imt) [![Linkedin: ashutosh](https://img.shields.io/badge/-ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159) [![GitHub ashutosh](https://img.shields.io/github/followers/ashutosh?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
+[![Twitter: ashutosh](https://img.shields.io/twitter/follow/ashutosh?style=social)](https://twitter.com/Ashutos78719075) [![Linkedin: ashutosh](https://img.shields.io/badge/-ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159) [![GitHub ashutosh](https://img.shields.io/github/followers/ashutosh?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
 
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-ashutosh?style=flat-square&logo=google-chrome)](https://github.com/ashutoshtiwari-jnv)-->
 
