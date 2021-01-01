@@ -42,15 +42,16 @@
 - 🌱 I’m currently learning Competitve Proramming,Machine Learning using Python.
 - 👯 I love to collaborate on intresting Projects.
 - 💬 You can ask me stuffs related Python & ML.
-- 📫 How to reach me: [LinkedIn - Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
+- 📫 How to reach me: [LinkedIn- Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch friend again and again .
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Twitter: imashutosh](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
+[![Linkedin: imashutosh](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
 
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
+[![GitHub iamashutosh](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
+
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-ashutosh?style=flat-square&logo=google-chrome)](https://github.com/ashutoshtiwari-jnv)-->
 
 
