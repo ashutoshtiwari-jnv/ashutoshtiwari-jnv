@@ -44,7 +44,7 @@
 - - 👯 I love to collaborate on intresting Projects.
 - 📫 How to reach me: [LinkedIn- Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to watch friend again and again .
+- ⚡ Fun fact: I love to watch friends again and again.
 
 [![Twitter: ashutosh](https://img.shields.io/twitter/follow/ashutosh?style=social)](https://twitter.com/Ashutos78719075) [![Linkedin: ashutosh](https://img.shields.io/badge/-ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159) [![GitHub ashutosh](https://img.shields.io/github/followers/ashutosh?label=follow&style=social)](https://github.com/ashutoshtiwari-jnv)
 
