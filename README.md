@@ -37,8 +37,8 @@
 <br/>
 <br/>
 
-- I'm a experienced software developer with over 3 years in the field, specializing in backend development. Proficient in various programming languages and frameworks, with a track record of successfully delivering high-quality, scalable software
-  solutions. Strong problem-solving skills, collaborative approach, and a commitment to continuous learning.
+- 🧑🏻‍💻 I'm a experienced software developer with over 3 years in the field, specializing in backend development. Proficient in various programming languages and frameworks, with a track record of successfully delivering high-quality, scalable software
+    solutions. Strong problem-solving skills, collaborative approach, and a commitment to continuous learning.
 - 🔭 I'm currently a working on project [Voice-Assisted-Real-Time-Object-Recognition-for-Visually-Impaired-People](https://github.com/Voice-Assisted-Real-Time-Object-Recognition-for-Visually-Impaired-People).
 - 🌱 I’m currently learning Competitve Proramming, Fullstack Development, System Design(LLD, HLD), Machine Learning using Python, Web Development.
 - 💬 You can ask me stuffs related Node, Typescript, Javascript, C++, Rust, Docker, RabbitMQ, Kafka, Python & ML.
