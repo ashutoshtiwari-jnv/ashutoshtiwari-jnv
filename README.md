@@ -39,8 +39,8 @@
 
 
 - 🔭 I'm currently a working on project [Voice-Assisted-Real-Time-Object-Recognition-for-Visually-Impaired-People](https://github.com/Voice-Assisted-Real-Time-Object-Recognition-for-Visually-Impaired-People).
-- 🌱 I’m currently learning Competitve Proramming, Fullstack Development, System Design(LLD, HLD), Machine Learning using Python.
-- 💬 You can ask me stuffs related Node, Typescript, Javascript, C++, Web Development, Python & ML.
+- 🌱 I’m currently learning Competitve Proramming, Fullstack Development, System Design(LLD, HLD), Machine Learning using Python, Web Development.
+- 💬 You can ask me stuffs related Node, Typescript, Javascript, C++, Rust, Docker, RabbitMQ, Kafka, Python & ML.
 - - 👯 I love to collaborate on intresting Projects.
 - 📫 How to reach me: [LinkedIn- Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-4a7555159)
 - 😄 Pronouns: He/His
