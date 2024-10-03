@@ -54,15 +54,21 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.techbaz.org/Course/img/c-logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&usqp=CAU"></code>
-<code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-<code><img height="20" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/622/1*grk7btEn0OJEQRKgG2Qs2A.png"></code>
-<code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
-<code><img height="20" src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&usqp=CAU"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"></code>
+<code><img height="40" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img height="40" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
+<code><img height="40" src="https://miro.medium.com/max/622/1*grk7btEn0OJEQRKgG2Qs2A.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="40" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
+<code><img height="40" src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
 
 <a href="https://github.com/ashutoshtiwari-jnv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwari-jnv&theme=dark&hide_langs_below=1" />
