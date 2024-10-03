@@ -60,6 +60,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"></code>
 <code><img height="40" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 <code><img height="40" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/622/1*grk7btEn0OJEQRKgG2Qs2A.png"></code>
@@ -69,6 +70,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg"></code>
+
 
 
 <a href="https://github.com/ashutoshtiwari-jnv">
