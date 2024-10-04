@@ -74,10 +74,10 @@
 
 
 <a href="https://github.com/ashutoshtiwari-jnv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwari-jnv&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwari-jnv&theme=white&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ashutoshtiwari-jnv">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshtiwari-jnv&show_icons=true&theme=dark&line_height=27" alt="Ashutosh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshtiwari-jnv&show_icons=true&theme=white&line_height=27" alt="Ashutosh's github stats"/>
 </a>
 
 
