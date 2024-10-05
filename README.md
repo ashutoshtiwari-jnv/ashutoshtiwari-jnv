@@ -67,8 +67,8 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="40" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
 <code><img height="40" src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg"></code>
 
 
